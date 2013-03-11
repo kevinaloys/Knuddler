@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'font';
+	src: url('font/moviegallery.ttf'); /* IE9 Compat Modes */
+}
+#knuddler_title{
+font-family: 'Berkshire Swash';
+font-weight:900;
+font-size:100px;
+margin-top:-10px;
+}
+#tagline{
+	font-family:'Bubblegum Sans';
+	font-size:50px;
+	margin-top:-70px;
+}
+#header{
+
+	font-family: 'font';
+	font-size:57px;
+}
+#search_box{
+	height:50px;
+	width: 800px;
+	margin-top: -100px;
+	margin-left: 390px;
+	font-size: 30px;
+}
+
+#knuddle_button{
+	position: absolute;
+	height:50px;
+	width:200px;
+	margin-top: 100px;
+	margin-left: -500px;
+	margin-right: 900px;
+	font-size: 25px;
+}
+::-webkit-input-placeholder {
+   color: #d5d5d4;
+}
+#poster{
+	margin-left:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:10px;
+}
+
+
