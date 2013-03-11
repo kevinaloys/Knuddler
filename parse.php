@@ -3,6 +3,12 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
   <link href='http://fonts.googleapis.com/css?family=Tauri' rel='stylesheet' type='text/css'>
+  <script type="text/javascript">
+  //This invokes the glassomium based Ruby server to initialte the xampp local server
+
+
+
+  </script>
 </head>
 </body>
 <?php
