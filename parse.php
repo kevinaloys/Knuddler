@@ -7,7 +7,7 @@
 </body>
 <?php
 $apikey = '9hquc2qzd7nm3g7tdunrcxs5';
-$q = urlencode($_POST['movie_name']); // make sure to url encode an query parameters
+$q = urlencode($_POST['movie_name']); // make sure to url encode an query parameterss
 
 // construct the query with our apikey and the query we want to make
 $endpoint = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=' . $apikey . '&q=' . $q;
